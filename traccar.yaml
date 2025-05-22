@@ -1,0 +1,50 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: traccar-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: traccar
+  template:
+    metadata:
+      labels:
+        app: traccar
+    spec:
+      # Use the host’s network namespace so all ports bind directly on the node
+      hostNetwork: true
+      # DNS policy required when using hostNetwork
+      dnsPolicy: ClusterFirstWithHostNet
+      containers:
+        - name: traccar
+          image: traccar-app:latest
+          imagePullPolicy: Never
+          ports:
+            # Only expose the web UI port here
+            - containerPort: 8083
+          volumeMounts:
+            - name: logs-volume
+              mountPath: /opt/traccar/logs
+      volumes:
+        - name: logs-volume
+          hostPath:
+            path: /home/ubuntu/java-traccar/logs
+            type: Directory
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: traccar-service
+spec:
+  selector:
+    app: traccar
+  type: NodePort
+  ports:
+    # NodePort for the web UI
+    - name: web
+      port: 8083
+      targetPort: 8083
+      nodePort: 30083
+

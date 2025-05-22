@@ -1,0 +1,129 @@
+2024-10-11 17:53:18  INFO: Shutting down server...
+2024-10-11 17:53:23  INFO: Logging initialized @1079ms to org.eclipse.jetty.util.log.Slf4jLog
+2024-10-11 17:53:23  WARN: Unable to load notificator class for   
+2024-10-11 17:53:24  INFO: DmtProtocol Initialised
+2024-10-11 17:53:24  INFO: Starting server...
+2024-10-11 17:53:24  INFO: Main initServer()
+2024-10-11 17:53:24  INFO: ServerManager start()
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:25  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:25  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:25  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:26  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:26  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:26  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:26  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:26  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:26  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:26  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:26  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:26  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: instanceof ChannelOutboundHandler: WrapperOutboundHandler
+2024-10-11 17:53:26  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:26  INFO: BasePipeLineFactory initChannel: NioDatagramChannel
+2024-10-11 17:53:26  INFO: Main initServer() start WebServer
+2024-10-11 17:53:26  INFO: WebServer start()
+2024-10-11 17:53:26  INFO: jetty-9.4.20.v20190813; built: 2019-08-13T21:28:18.144Z; git: 84700530e645e812b336747464d6fbbf370c9a20; jvm 1.8.0_422-b05
+2024-10-11 17:53:26  INFO: Started o.t.w.@1a864a94{/,null,AVAILABLE}
+2024-10-11 17:53:26  INFO: DefaultSessionIdManager workerName=node0
+2024-10-11 17:53:26  INFO: No SessionScavenger set, using defaults
+2024-10-11 17:53:26  INFO: node0 Scavenging every 660000ms
+2024-10-11 17:53:26  INFO: Started o.e.j.s.ServletContextHandler@60b0695{/,null,AVAILABLE}
+2024-10-11 17:53:26  INFO: Started ServerConnector@14a2f921{HTTP/1.1,[http/1.1]}{0.0.0.0:8083}
+2024-10-11 17:53:26  INFO: Started @4667ms
+2024-10-11 17:53:33  INFO: BasePipeLineFactory initChannel: NioSocketChannel
+2024-10-11 17:53:33  INFO: instanceof ChannelInboundHandler: WrapperInboundHandler
+2024-10-11 17:53:33  INFO: Dmt Protocol Added LengthFieldBasedFrameDecoder
+2024-10-11 17:53:33  INFO: DmtProtocolDecoder initialized
+2024-10-11 17:53:33  INFO: Dmt Protocol Added decoder: org.traccar.BasePipelineFactory$$Lambda$40/204836152@3592a880
+2024-10-11 17:53:33  INFO: [e75fc58e: 6137] 127.0.0.1:52257 -  NioSocketChannel connected
+2024-10-11 17:53:33  INFO: [e75fc58e: 6137 < 127.0.0.1:52257] [TCP] HEX: 0255003100c7070f00333538343437313738373336333738003839383832323830363636313433323937383731006f01010900000000
+2024-10-11 17:53:33  INFO: WrapperInbound channelRead(): NetworkMessageNetworkMessage{remoteAddress=/127.0.0.1:52257, message=PooledUnsafeDirectByteBuf(ridx: 0, widx: 54, cap: 2048)}
+2024-10-11 17:53:33  INFO: BaseDataHandler channelRead(): NetworkMessage{remoteAddress=/127.0.0.1:52257, message=PooledSlicedByteBuf(ridx: 0, widx: 54, cap: 54/54, unwrapped: PooledUnsafeDirectByteBuf(ridx: 54, widx: 54, cap: 2048))}
+2024-10-11 17:53:33  INFO: BaseDataHandler channelRead(): NetworkMessage{remoteAddress=/127.0.0.1:52257, message=PooledSlicedByteBuf(ridx: 0, widx: 54, cap: 54/54, unwrapped: PooledUnsafeDirectByteBuf(ridx: 54, widx: 54, cap: 2048))}
+2024-10-11 17:53:33  INFO: BaseDataHandler channelRead(): NetworkMessage{remoteAddress=/127.0.0.1:52257, message=PooledSlicedByteBuf(ridx: 0, widx: 54, cap: 54/54, unwrapped: PooledUnsafeDirectByteBuf(ridx: 54, widx: 54, cap: 2048))}
+2024-10-11 17:53:33  INFO: BaseDataHandler channelRead(): NetworkMessage{remoteAddress=/127.0.0.1:52257, message=PooledSlicedByteBuf(ridx: 0, widx: 54, cap: 54/54, unwrapped: PooledUnsafeDirectByteBuf(ridx: 54, widx: 54, cap: 2048))}
+2024-10-11 17:57:03  INFO: [e75fc58e: 6137] 127.0.0.1:52257 -  disconnected
+2024-10-11 17:57:03  WARN: [e75fc58e: 6137] 127.0.0.1:52257 - error - NullPointerException (MainEventHandler:141 < ... < WrapperInboundHandler:39 < ... < OpenChannelHandler:38 < ...)
